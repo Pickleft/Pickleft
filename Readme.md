@@ -14,7 +14,6 @@ Familiar With :
 
 ## Socials
 
-*Youtube : [Pickleft](https://youtube.com/Pickleft)
-*Twitter : [@Pickleft](https://twitter.com/Pickleft)
+*Youtube : (https://youtube.com/Pickleft)
+*Twitter : (https://twitter.com/Pickleft)
 *Discord : Pickleft#1853
-
