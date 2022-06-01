@@ -16,7 +16,7 @@ Familiar With :
 
 Find Me In :
 
-Youtube : [Pickleft](https://youtube.com/Pickleft)
-Twitter : [@Pickleft](https://twitter.com/Pickleft)
-Discord : Pickleft#1853
+*Youtube : [Pickleft](https://youtube.com/Pickleft)
+*Twitter : [@Pickleft](https://twitter.com/Pickleft)
+*Discord : Pickleft#1853
 
