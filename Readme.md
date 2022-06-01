@@ -8,8 +8,8 @@ Familiar With :
 ## May Be Referred As : 
 
 * Owner Of Bolt Click Blaster. 
-* """"" "" Discord Sharpie BOT.
-* """"" "" Upcoming Opensource Clicker & Bot. 
+* Owner Of Discord Sharpie BOT.
+* Owner Of Upcoming Opensource Clicker & Bot. 
 
 
 ## Socials
