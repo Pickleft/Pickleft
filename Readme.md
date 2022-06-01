@@ -1,12 +1,3 @@
-# EasyHook
-
-In-Depth Control of your webhook.
-
-## Description
-
-Get an advanced easy & simple control of your discord webhook using this GUI made APP.
-Customize Messages & Webhook Profile Settings.
-
 ### Intro
 
 Pickleft.
