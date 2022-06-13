@@ -2,7 +2,7 @@
 
 * Pickleft. A Software engineer (C#) Learning (C++).
 * Familiar With : 
- * .Net Framework / .Net Runtime (GUI & Console Apps)
+  * .Net Framework / .Net Runtime (GUI & Console Apps)
 
 ## May Be Referred As : 
 
