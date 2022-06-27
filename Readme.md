@@ -8,7 +8,7 @@
 
 * Owner Of Bolt Click Blaster. 
 * Owner Of Discord Sharpie BOT.
-* Owner Of Upcoming Opensource Clicker & Bot. 
+* Owner Of Swift Opensource Clicker. 
 
 
 ## Socials
