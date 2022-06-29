@@ -1,6 +1,6 @@
 ### Intro
 
-* Pickleft. A Software engineer (C#) Learning (C++).
+* Pickleft. A Software engineer (C#) Learning (Java).
 * Familiar With : 
   * .Net Framework / .Net Runtime (GUI & Console Apps)
 
