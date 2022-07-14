@@ -1,14 +1,8 @@
 ### Intro
 
 * Pickleft. A Software engineer (C#) Learning (Java).
-* Familiar With : 
-  * .Net Framework / .Net Runtime (GUI & Console Apps)
-
-## May Be Referred As : 
-
-* Owner Of Bolt Click Blaster. 
-* Owner Of Discord Sharpie BOT.
-* Owner Of Swift Opensource Clicker. 
+	* Familiar With : 
+		* .Net Framework / .Net Runtime (GUI & Console Apps)
 
 
 ## Socials
