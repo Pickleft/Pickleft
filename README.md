@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**Pickleft/Pickleft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Intro
+* Pickleft, A Software engineer (C#) Learning (Java).
+  * Specialized at : 
+    * .Net Framework & .Net Runtime (Forms & Console Apps).
+    * ASP.Net Core (Web APIs & Web Apps / Pages).
+    * Reverse Engineering.
+    * Hashing, Encryption & Decryption. 
+    * Pointers & Memory.
+    * API Wrapping.
+    * Windows API.
+## Socials
+* Youtube : [Pickleft](https://youtube.com/Pickleft)
+* Twitter : [@Pickleft](https://twitter.com/Pickleft)
+* Discord : Pickleft#1853
