@@ -3,8 +3,9 @@
   * Specialized at : 
     * .Net Framework & .Net Runtime (Forms & Console Apps).
     * ASP.Net Core (Web APIs & Web Apps / Pages).
-    * Reverse Engineering.
     * Hashing, Encryption & Decryption. 
+    * Automation (Macros, etc...)
+    * Reverse Engineering.
     * Pointers & Memory.
     * API Wrapping.
     * Windows API.
