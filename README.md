@@ -4,8 +4,8 @@
     * .Net Framework & .Net Runtime (Forms & Console Apps).
     * ASP.Net Core (Web APIs & Web Apps / Pages).
     * Hashing, Encryption & Decryption. 
-    * Automation (Selenium, Windows-API Macros, etc...)
-    * Reverse Engineering.
+    * Automation (Selenium, Windows-API Macros, etc...).
+    * Reverse Engineering (Reflection, Obfuscation, etc..).
     * Pointers & Memory.
     * API Wrapping.
     * Windows API.
