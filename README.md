@@ -16,4 +16,4 @@
 * [pickleft.world](https://pickleft.world/)
 * [pickleft.me](https://pickleft.me/)
 * [pickleft.cloud](https://pickleft.cloud/)
-* [linktre.e/pickleft]( https://linktre.e/pickleft)
+* [linktre.e/pickleft]( https://linktr.ee/pickleft)
