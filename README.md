@@ -12,7 +12,7 @@
 ## Socials
 * Youtube : [Pickleft](https://youtube.com/Pickleft)
 * Twitter : [@Pickleft](https://twitter.com/Pickleft)
-* Discord : Pickleft#1853
+* Discord : Pickleft
 * [pickleft.world](https://pickleft.world/)
 * [pickleft.me](https://pickleft.me/)
 * [pickleft.cloud](https://pickleft.cloud/)
